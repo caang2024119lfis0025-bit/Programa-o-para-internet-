@@ -1,7 +1,10 @@
 body {
-  font-family: Arial;
-  background-color: lightblue;
+  font-family: Georgia;
+  background-color: Thistle;
 }
 h1 {
-  color: darkred;
+  color: MediumPurple;
+}
+h2 {
+  color: MediumOrchid;
 }
